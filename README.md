@@ -1,2 +1,1 @@
-# test-resource
-Created with CodeSandbox
+Frontend Standardization Test Exercis
